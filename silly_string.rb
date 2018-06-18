@@ -7,7 +7,7 @@ puts "My favorite word is Happi"
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
-favorite_word_in_all_caps = "Happi.upcase" Put a . after your_favorite word and use a String method.
+favorite_word_in_all_caps = "Happi" Put a . after your_favorite word and use a String method.
 
 puts "MY FAVORITE WORD IS #favorite_word_in_all_caps}"
 
